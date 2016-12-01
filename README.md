@@ -1,6 +1,6 @@
 # DroneRacing
 
-Wiki con material e información de los drones en el [IEEEsb Madrid].
+Repo con material e información de los drones en el [IEEEsb Madrid].
 
 ![img1](./art/logo_ieeesb.png)
 ![img1](./art/logo_ieee.png)
