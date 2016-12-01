@@ -1,9 +1,8 @@
 # DroneRacing
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Wiki con material e información de los drones en el [IEEEsb Madrid].
 
-![img1](./art/IEEE.logo.png)
+![img1](./art/logo_ieeesb.png)
 ![img1](./art/logo_ieee.png)
 
 ## Drones
@@ -48,7 +47,7 @@ Para futuros pilotos y gente con poca experiencia y conocimientos sobre la elect
 
 Para gente con algo de experiencia y conocimientos básicos, planteamos un kit que es menos económico que el principiante pero con componentes de mayor calidad.
 
-Esta opción consiste en los componentes mencionados anteriormente en la [Lista actualizada]
+Esta opción consiste en los componentes mencionados anteriormente en la [Lista actualizada].
 
 ## Ayuda
 
@@ -56,7 +55,7 @@ Par cualquier duda, visítanos en el club o escribenos a [robotica@ieeesb.com](r
 
 ## Contribuir
 
-Si quieres contribuir en la comunidad de drones, no dudes en escribir a [robotica@ieeesb.com](robotica@ieeesb.es)
+Si quieres contribuir en la comunidad de drones, no dudes en escribir a [robotica@ieeesb.com](robotica@ieeesb.es).
 
 Por otro lado, si quieres aportar algo a este repo o encuentras mejor material asignale una issue y estaremos al tanto.
 
