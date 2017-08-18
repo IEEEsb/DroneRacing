@@ -16,6 +16,9 @@ Added new PagodaAltiumPack which contains:
 We have tried to convert the design files to Kicad and/or Eagle and/or any PCB exchange format such as PCAD but results aren't great as 
 some pagoda features require software-dependant geometrical constructions.
 
+EDIT:
+PagodaAltiumPack files got ordered and tested. Results are good, once you get used to separating the PCB's. Separation can't be done realiably by hand, some sort of small cutting pliers are required. Jigs work well, as intended. A new version may be released with minor tolerance adjustments to make assembly even easier, but files are in ORDERABLE state.
+
 
 For project details go here:
 [http://www.maartenbaert.be/quadcopters/antennas/pagoda-antenna/]
